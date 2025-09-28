@@ -1,0 +1,18 @@
+<resources>
+    <!-- Bảng màu chủ đề Food Travel -->
+    <color name="primary_brand">#FF7A59</color> <!-- Màu cam cà rốt/san hô -->
+    <color name="primary_dark">#D45F40</color> <!-- Cam đậm -->
+    <color name="background_light">#FDFCFB</color>
+
+    <!-- Văn bản -->
+    <color name="text_primary">#2C3E50</color>
+    <color name="text_secondary">#7F8C8D</color>
+
+    <!-- Alias cho hệ thống -->
+    <color name="colorPrimary">@color/primary_brand</color>
+    <color name="colorSecondary">@color/primary_dark</color>
+
+    <!-- Màu cơ bản -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

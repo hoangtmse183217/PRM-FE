@@ -1,0 +1,40 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Food Travel</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_slogan">Khám phá ẩm thực, bắt đầu hành trình của bạn</string>
+    <string name="splash_get_started">Bắt đầu nào</string>
+    <string name="splash_already_have_account">Đã có tài khoản?</string>
+    <string name="splash_sign_in">Đăng nhập</string>
+
+    <!-- Login Screen -->
+    <string name="login_welcome_back">Chào mừng trở lại!</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục hành trình</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Mật khẩu</string>
+    <string name="login_forgot_password">Quên mật khẩu?</string>
+    <string name="login_button_text">Đăng nhập</string>
+    <string name="login_no_account">Chưa có tài khoản?</string>
+    <string name="login_sign_up">Đăng ký</string>
+    <string name="login_or_divider">HOẶC</string>
+    <string name="login_with_google">Tiếp tục với Google</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Tạo tài khoản</string>
+    <string name="register_subtitle">Bắt đầu hành trình ẩm thực của bạn!</string>
+    <string name="register_full_name_hint">Họ và tên</string>
+    <string name="register_confirm_password_hint">Xác nhận mật khẩu</string>
+    <string name="register_button_text">Đăng ký</string>
+    <string name="register_already_have_account">Đã có tài khoản?</string>
+
+    <!-- Main Screen -->
+    <string name="main_welcome">Chào mừng trở lại,</string>
+    <string name="main_sign_out_button_desc">Nút đăng xuất</string>
+    <string name="main_search_hint">Tìm kiếm món ăn...</string>
+    <string name="main_filter_location">Địa điểm</string>
+    <string name="main_filter_price">Giá cả</string>
+    <string name="main_filter_time">Thời gian</string>
+    <string name="main_best_foods_title">Món ngon hôm nay</string>
+    <string name="main_view_all">Xem tất cả</string>
+</resources>
